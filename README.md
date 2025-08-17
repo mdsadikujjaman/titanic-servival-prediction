@@ -2,6 +2,10 @@
 
 This project explores the Titanic dataset from the famous Kaggle competition to predict passenger survival using supervised machine learning algorithms. The goal is to build and optimize models that can accurately classify survivors based on features like age, fare, passenger class, and family relationships.
 
+
+
+## [Kaggle Notebook](https://www.kaggle.com/code/mdsadikujjamanshihab/titanic-data-science-project)
+
 ## 🚀 Project Highlights
 
 - Built a full machine learning pipeline using Python and scikit-learn.
@@ -64,7 +68,7 @@ This project explores the Titanic dataset from the famous Kaggle competition to 
 4. Run all cells to train and evaluate models.
 
 ## 🧑‍💻 Author
-**Md Sadikujjaman Shihab**  
+**Md. Sadikujjaman**  
 [My Kaggle Profile](https://www.kaggle.com/mdsadikujjamanshihab)
 
 ---
